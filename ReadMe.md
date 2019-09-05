@@ -4,7 +4,7 @@ Mediumly
 
 ![alt text](https://miro.medium.com/max/810/1*pSw6-63XzgbAHcOjOu1zLA.png "deal_breaker")
 
-The program is designed for reading medium articles that requires you to buy premium membership
+The program is designed for reading medium articles that requires you to buy premium membership. Enter the url and get served with medium_cooked.html (:p get it ?) containing the article but without the premium subscription provoke! 
 
 ## Requirements
 
