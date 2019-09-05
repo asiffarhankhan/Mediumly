@@ -2,7 +2,7 @@ Mediumly
 ========
 *A script designed to read medium articles without the iconic...*
 
-! [medium deal breaker image] (https://miro.medium.com/max/810/1*pSw6-63XzgbAHcOjOu1zLA.png)
+! [medium deal breaker image] (https://github.com/asiffarhankhan/mediumly/blob/master/dealbreaker.png)
 
 The program is designed for reading medium articles that requires you to buy premium membership
 
