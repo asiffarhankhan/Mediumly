@@ -18,7 +18,7 @@ The program is designed for reading medium articles that requires you to buy pre
 * run the command ```python3 mediumly.py```
 * enter the url of the concerned medium article
 
-## DISCLAIMER
+## Disclaimer
 
 For Educational and Informational Purposes Only.
 By entering this page you are agreeing to accept all parts of this disclaimer, and you are legally agreeing that you have read, understand, and fully consent to the terms below. The data contained in the program is for educational and informational purposes only, and is made available to you as self-help tools for your own use. The Author does not take any responsiblity for any damage to the user. You specifically acknowledge and agree that the author is not liable for any defamatory, offensive, or illegal conduct of any other Website, Program, Product of Service participant or user.
