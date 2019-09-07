@@ -31,7 +31,7 @@ class cook:
             file.write('<a href="https://medium.com/"><img src="header.png" /></a><br>') #MediumFeel
             file.write('<br><h1 align="center">'+self.headline+'</h1><br>') #Article Headline
             file.write('<div style="display: flex; justify-content: center;"><img src='+self.image+' style="float:right;"><br></div>') #Article Image
-            file.write('<div style="margin-top:50px; margin-left:250px; margin-right:300px; border:1px solid white;""><font size="4px" style="color:#292929;text-align:middle">'+html_content) #Article Content
+            file.write('<div style="margin-top:50px; margin-left:250px; margin-right:300px; border:1px solid white;""><font size="5px" style="color:#292929;text-align:middle">'+html_content) #Article Content
             file.write('<br><font size=3 align=middle>Designed by | <a href="https:github.com/asiffarhankhan">AlphaPhiKappa</a></font>')
 
     def main(self):

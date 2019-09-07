@@ -23,6 +23,7 @@ The program is designed for reading medium articles that requires you to buy pre
 * The program fails to load article images other than the header image
 * inline links within the article are not displayed in the *unlocked* article page
 * While the program is best suited for readables, however it may be useless for tutorials/instructibles
+* Options such as night mode, font size and other relevant features can also be integrated
 
 ## DISCLAIMER
 
