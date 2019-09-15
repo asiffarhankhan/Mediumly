@@ -5,8 +5,6 @@ import os
 import webbrowser
 
 class cook:
-
-
     def __init__(self):
         #Using newspaper to fetch the title and the content of the article
         self.url=input("\nEnter the address: ")
@@ -18,12 +16,10 @@ class cook:
         self.headline=self.article.title.strip()
         self.image=self.article.top_image
 
-
     def convert_html(self):
         #using textile to parse the article content to html
         html_content=textile.textile(self.content)
         return html_content
-
 
     def write_file(self,html_content):
         #Adding the html parsed data into an html editor
@@ -40,7 +36,13 @@ class cook:
         self.write_file(html_content)
         self.url = 'file:{}'.format(pathname2url(os.path.abspath('medium_cooked.html')))
         webbrowser.open(self.url)
-
+        with open('abc.txt','w') as file:
+            file.write(html_content)
+        print('Do yo want to save this article as HTML file? (y/n):  ') 
+        ch=input()
+        if ch=='Y'or'y':
+            n=self.headline+'.html'
+            os.rename('medium_cooked.html',n)
 
 if __name__=='__main__':
     cook().main()
