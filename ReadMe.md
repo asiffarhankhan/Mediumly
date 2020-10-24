@@ -4,7 +4,7 @@ Mediumly
 
 ![medium deal breaker image](https://github.com/asiffarhankhan/mediumly/blob/master/dealbreaker.png)
 
-The program is designed for reading medium articles that requires you to buy premium membership
+The program is designed for reading medium articles that requires you to buy premium membership.
 
 ## Requirements
 
@@ -12,16 +12,16 @@ The program is designed for reading medium articles that requires you to buy pre
 
 ## Installation 
 
-* clone this repository using  ```git clone <repo_url.git>```
-* locate inside the cloned file ```cd cloned\directory\mediumly```
-* intall dependencies with requirement.txt ```pip install -r requirements.txt```
-* run the command ```python3 mediumly.py```
-* enter the url of the concerned medium article
+* Clone this repository using  ```git clone <repo_url.git>```
+* Locate inside the cloned file ```cd cloned\directory\mediumly```
+* Intall dependencies with requirement.txt ```pip install -r requirements.txt```
+* Run the command ```python3 mediumly.py```
+* Enter the url of the concerned medium article
 
 ## Scope for Enhancements
 
 * The program fails to load article images other than the header image
-* inline links within the article are not displayed in the *unlocked* article page
+* Inline links within the article are not displayed in the *unlocked* article page
 * While the program is best suited for readables, however it may be useless for tutorials/instructibles
 * Options such as night mode, font size and other relevant features can also be integrated
 
