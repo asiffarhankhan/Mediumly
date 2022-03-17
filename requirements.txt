@@ -8,7 +8,7 @@ fpdf==1.7.2
 html5lib==1.0.1
 idna==2.8
 jieba3k==0.35.1
-lxml==4.4.1
+lxml==4.6.5
 newspaper3k==0.2.8
 nltk==3.4.5
 Pillow==9.0.1
